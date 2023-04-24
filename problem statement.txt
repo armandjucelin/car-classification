@@ -1,0 +1,17 @@
+I am looking for an expert Python programmer to write a script for car classification using Neural Networks. 
+The ideal candidate for this job should have extensive knowledge in Python and machine learning algorithms, 
+particularly Neural Networks. Experience in developing scripts for data science projects is preferred. 
+Furthermore, a creative and innovative mindset would be highly essential for this project.
+
+The challenge in car classification using Neural Networks is to create an efficient and effective algorithm that can accurately
+ classify vehicles based on their physical features. Thus, the successful completion of this project is contingent on the programmer's 
+ability to implement innovative techniques for pattern recognition. As such, I expect the programmer to demonstrate an in-depth
+ understanding of the problem domain, as well as a commitment to developing codes that contain readable and well-structured logic.
+
+This project requires detailed documentation with comments throughout the source code, as well as a concise description 
+of the algorithms used. The goal is to create a piece of software that anyone, regardless of their background in programming, 
+can comprehend.
+
+To ensure successful completion of this project, I need the programmer to demonstrate expertise in Python and Neural Networks,
+ as well as the ability to develop well-documented source code. Furthermore, I need the programmer to demonstrate commitment and a creative,
+ innovative
